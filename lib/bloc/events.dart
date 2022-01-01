@@ -1,0 +1,1 @@
+enum CounterEvents {remove, add}
